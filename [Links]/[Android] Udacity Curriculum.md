@@ -56,7 +56,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 ## Advanced
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅲ](https://www.udacity.com/course/advanced-android-app-development--ud855) &nbsp; ☆²  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅱ](https://www.udacity.com/course/advanced-android-app-development--ud855) &nbsp; ☆²  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optimizing App Performance](https://www.udacity.com/course/android-performance--ud825)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Firebase](https://www.udacity.com/course/firebase-essentials-for-android--ud009)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867) &nbsp; ☆²  
@@ -100,7 +100,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Intermediate | Services    | [Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)                         | 2 Weeks  |                                                             |
 | Intermediate | Games       | [Game Design Ⅰ](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)                    | 8 Weeks  | Breakout Clone                                              |
 | Intermediate | Games       | [Game Design Ⅱ](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)              | 8 Weeks  | MegaMan Clone                                               |
-| Advanced     | Core        | [App Development Ⅲ](https://www.udacity.com/course/advanced-android-app-development--ud855) &nbsp; ☆²     | 6 Weeks  | Stock Tracker                                               |
+| Advanced     | Core        | [App Development Ⅱ](https://www.udacity.com/course/advanced-android-app-development--ud855) &nbsp; ☆²     | 6 Weeks  | Stock Tracker                                               |
 | Advanced     | Core        | [Optimizing App Performance](https://www.udacity.com/course/android-performance--ud825)                   | 4 Weeks  |                                                             |
 | Advanced     | Core        | [Firebase](https://www.udacity.com/course/firebase-essentials-for-android--ud009)                         | 8 Weeks  |                                                             |
 | Advanced     | Core        | [Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867) &nbsp; ☆²                     | 6 Weeks  | Joke Teller                                                 |
@@ -143,7 +143,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 **Curriculum:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅰ](https://www.udacity.com/course/developing-android-apps--ud853)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅲ](https://www.udacity.com/course/advanced-android-app-development--ud855)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅱ](https://www.udacity.com/course/advanced-android-app-development--ud855)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)  
