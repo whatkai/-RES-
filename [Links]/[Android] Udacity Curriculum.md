@@ -87,7 +87,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Beginner     | Preparation | [Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)             | 1 Day    |                                              |
 | Beginner     | Core        | [UI Design](https://www.udacity.com/course/android-basics-user-interface--ud834) &nbsp; ☆¹                | 4 Weeks  | Birthday Card, Business Info                 |
 | Beginner     | Core        | [User Input](https://www.udacity.com/course/android-basics-user-input--ud836) &nbsp; ☆¹                   | 4 Weeks  | Coffee Ordering App, Score Tracker, Quiz App |
-| Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839) &nbsp; ☆¹     | 8 Weeks  | Translator App                               |
+| Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839) &nbsp; ☆¹     | 8 Weeks  | Language Learning App                        |
 | Beginner     | Core        | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) &nbsp; ☆¹                   | 5 Weeks  | Book List, News Reader                       |
 | Beginner     | Core        | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) &nbsp; ☆¹               | 8 Weeks  | Pet Database                                 |
 | Beginner     | Core        | [UI Components](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)                  | 4 Weeks  | Build Your Own App                           |
