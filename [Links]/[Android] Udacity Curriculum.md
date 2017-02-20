@@ -31,7 +31,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Beginner     | Core        | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) &nbsp; ☆¹               | 8 Weeks  | Pet Database                                 |
 | Beginner     | Core        | [UI Components](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)                  | 4 Weeks  | Build Your Own App                           |
 | Beginner     | Core        | [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)                        | 6 Weeks  | Build a User-Targeted App                    |
-| Intermediate | Core        | [App Development Ⅰ](https://www.udacity.com/course/developing-android-apps--ud853) &nbsp; ☆²              | 2 Weeks  | Popular Movies, Weather, Build Your Own App  |
+| Intermediate | Core        | [App Development Ⅰ](https://www.udacity.com/course/developing-android-apps--ud853) &nbsp; ☆²              | 10 Weeks | Popular Movies, Weather, Build Your Own App  |
 | Intermediate | Core        | [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862) &nbsp; ☆² | 4 Weeks  | Apply Material Design to News Reader         |
 | Intermediate | Services    | [Sign-In & Profiles](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)     | 2 Weeks  |                                              |
 | Intermediate | Services    | [Maps](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)                       | 2 Weeks  |                                              |
@@ -187,8 +187,8 @@ If you want to check a specific course against the context-based names: the fast
 # Notes
 
 Several of the original course overviews are somewhat vague. Be aware that:
-  * Project lists are approximated. There might be some variance in actual projects per course.
-  * Some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
-  * I took a few liberties with the course & project names to provide concise, informative descriptions; while maintaining & interpreting the original contexts to the best of my ability.
-  
+	* Project lists are approximated. There might be some variance in actual projects per course.
+	* Some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
+	* I took a few liberties with the course & project names to provide concise, informative descriptions; while maintaining & interpreting the original contexts to the best of my ability.
+	
 Most of the details in the reference were taken directly from Udacity's web page. These details are potentially subject to change, so you should refer directly to the relevant [**Udacity**](https://www.udacity.com/) pages to make sure that the listed information is still accurate. I especially recommend doing so if you plan on starting one of the paid Nanodegree programs based on the information provided here.
